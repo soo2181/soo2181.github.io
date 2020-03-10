@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kim Chul Soo"
+  avatar           :"/assets/images/20180727_170902.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
