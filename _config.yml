@@ -94,8 +94,13 @@ analytics:
 # Site Author
 author:
   name             : "Kim Chul Soo"
+<<<<<<< HEAD
   avatar           :"/images/20180727_170902.jpg"
   bio              : "I am an **amazing** person."
+=======
+  avatar           :"../images/20180727_170902.jpg"
+  bio              : "I am an **beginner level** person."
+>>>>>>> 0efc6000c07c0e714414eceff22537e5c8414b8c
   location         : "therefor"
   email            :
   links:
